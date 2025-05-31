@@ -10,12 +10,12 @@
 
 # 🔧 Core Subprojects
 
- 🖥️ **AbimoOS**: The primary operating system for Abimo smartphones and tablets. 
- 🌈 **Aero Vibrant UI**: A universal design system based on glassmorphism and fluent UI. 
- 🌙 **Lunar OS**: Lightweight OS for Abimo smartwatches. 
- 🌀 **Orbit**: An OS for desktop and professional computing. 
- 💧 **HydroXEngine**: Interactive engine for visual AR experiences. 
- 🌐 **Hydro Visual**: Central UI for LifeBoard©, an immersive AR platform. 
+ - 🖥️ **AbimoOS**: The primary operating system for Abimo smartphones and tablets. 
+ - 🌈 **Aero Vibrant UI**: A universal design system based on glassmorphism and fluent UI. 
+ - 🌙 **Lunar OS**: Lightweight OS for Abimo smartwatches. 
+ - 🌀 **Orbit**: An OS for desktop and professional computing. 
+ - 💧 **HydroXEngine**: Interactive engine for visual AR experiences. 
+ - 🌐 **Hydro Visual**: Central UI for LifeBoard©, an immersive AR platform. 
 
 # 🎨 Design Principles
 
@@ -29,8 +29,6 @@ Odyssey incorporates the following styles:
 # 🛠 Tech Stack
 
 - **Figma** – UI/UX prototyping
-- **HTML, CSS, JavaScript** – UI implementation (for Aero Kit)
-- **Custom OS Logic** – Android/Unix hybrid foundation
 - **AI tools** – Interface & interaction planning
 - **Alight Motion** – The initial tool used before Figma 😭
 
